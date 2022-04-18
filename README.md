@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 I'm Mincong
+
+I'm a software engineer, currently working on data store automation at [Datadog](https://github.com/DataDog). The goal is to eliminate toil and simplify operations. During my free time, I write blog posts on <https://mincong.io> about Java and Elasticsearch to share knowledge with 20K users/month.
 
 <!--
 **mincong-h/mincong-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
