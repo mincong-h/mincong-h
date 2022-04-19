@@ -1,6 +1,8 @@
 ### 👋 I'm Mincong
 
-I'm a software engineer, currently working on data store automation at [Datadog](https://github.com/DataDog). The goal is to eliminate toil and simplify operations. During my free time, I write blog posts on <https://mincong.io> about Java and Elasticsearch to share knowledge with 20K users/month.
+I'm a software engineer at [Datadog](https://github.com/DataDog), currently working on data store automation. The goal is to eliminate toil and simplify operations using workflows. I write workflows for creating and deleting data pipelines in complex microservices architecture. I created verification process for data pipelines' lifecycle and a Go client for admin APIs. Previously, I co-developped custom solutions for managing data lifecycle. Before Datadog, I worked at Nuxeo, RedHat, and Orange.
+
+During my free time, I write blog posts on <https://mincong.io> to share knowledge with 20K users/month. It's mainly about Java and Elasticsearch.
 
 <!--
 **mincong-h/mincong-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
