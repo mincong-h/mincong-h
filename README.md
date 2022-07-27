@@ -1,6 +1,6 @@
 ### 👋 I'm Mincong
 
-I'm a software engineer at [Datadog](https://github.com/DataDog), currently working on data store automation. The goal is to eliminate toil and simplify operations using workflows. I write workflows for creating and deleting data pipelines in complex microservices architecture. I created verification process for data pipelines' lifecycle. I also write internal libraries to allow other people to build automation easily, such as a Go client for admin APIs. Previously, I co-developped custom solutions for managing data lifecycle. Before Datadog, I worked at Nuxeo, RedHat, and Orange.
+I'm a software engineer at [Datadog](https://github.com/DataDog), currently working on data store automation. The goal is to eliminate toil and simplify operations using workflows. I write workflows for creating and deleting data pipelines in complex microservices architecture. I created verification process for data pipelines' lifecycle. I also write internal libraries to allow other people to build automation easily, such as a Go API client and a package for manipulating configuration in different formats (YAML, Starlark). Previously, I co-developped custom solutions for managing data lifecycle. Before Datadog, I worked at Nuxeo, RedHat, and Orange.
 
 During my free time, I write blog posts on <https://mincong.io> to share knowledge with 20K users/month. It's mainly about Java and Elasticsearch.
 
